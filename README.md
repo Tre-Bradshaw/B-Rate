@@ -1,4 +1,4 @@
-# CS35L-Final-Project: B-Rate
+# B-Rate
 
 ## Description
 B-Rate, is the ultimate destination for exploring and reviewing the diverse dining options available at UCLA! Whether you're a food enthusiast, a health-conscious eater, or simply looking for the best dining hall experience, we've got you covered.
@@ -24,7 +24,7 @@ B-Rate, is the ultimate destination for exploring and reviewing the diverse dini
 
 Clone the Repository:
 
-##### `git clone https://github.com/olana-abraham/B-Rates.git`
+##### `git clone https://github.com/Tre-Bradshaw/B-Rate.git`
 
 ##### `cd B-Rates`
 
