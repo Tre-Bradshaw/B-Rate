@@ -26,7 +26,7 @@ Clone the Repository:
 
 ##### `git clone https://github.com/Tre-Bradshaw/B-Rate.git`
 
-##### `cd B-Rates`
+##### `cd B-Rate`
 
 ### To run the React App:
 
